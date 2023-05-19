@@ -1,5 +1,5 @@
 
-DES Release Note - Release-4.7.2.8 (FE Only)
+DES Release Note - Release-4.7.3.0 (FE Only)
 # Table of Contents
 1. [Scope](#Scope)
 2. [Implementation Window](#Implementation-Window)
@@ -18,14 +18,14 @@ i. [Mobile App](#Mobile-App)
 
 # JIRA Issues in Release
 <INSERT JIRA MACRO WITH SEARCH QUERY: 
-project = MES AND fixVersion in ("v4.7.2.8") >
+project = MES AND fixVersion in ("v4.7.3.0") >
 
 # Application & Component Versions
-All repositories have been tagged with 'release-4.7.2.8'
+All repositories have been tagged with 'release-4.7.3.0'
 
 | Component | Version Number | Git Repositories | Git Commit |
 | --- | --- | --- | --- |
-| Mobile App | release-4.7.2.8 | https://github.com/dvsa/des-mobile-app.git | b6155faf843483bd315e9b3153d6c2197a7e0d89 |
+| Mobile App | release-4.7.3.0 | https://github.com/dvsa/des-mobile-app.git | 7db84830412fd0027b2753a12f9c244882ec940a |
 
 # Release Steps
 ### Mobile App
