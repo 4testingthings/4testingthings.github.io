@@ -6,15 +6,15 @@
 3. [JIRA Issues in Release](#JIRA-Issues-in-Release)
 4. [Application & Component Versions](#Application-&-Component-Versions)
 5. [Release Steps](#Release-Steps)
-i. [Mobile App](#Mobile-App)
+   1. [Mobile App](#Mobile-App)
 
 # Scope
-<INSERT ADDITIONAL INFORMATION>
+INSERT ADDITIONAL INFORMATION
 
 # Implementation Window
 | What | When |
 | --- | --- |
-| Mobile App | <INSERT ADDITIONAL INFORMATION> |
+| Mobile App | INSERT ADDITIONAL INFORMATION |
 
 # JIRA Issues in Release
 <INSERT JIRA MACRO WITH SEARCH QUERY: 
