@@ -1,3 +1,6 @@
+---
+exclude: true
+---
 
 # DES Release Note - Release-4.1.1.2 (FE Only)
 # Table of Contents

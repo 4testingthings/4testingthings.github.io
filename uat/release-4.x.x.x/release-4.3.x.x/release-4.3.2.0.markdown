@@ -1,5 +1,5 @@
 ---
-nav_exclude: true
+exclude: true
 ---
 
 # DES Release Note - Release-4.3.2.0 (FE Only)
