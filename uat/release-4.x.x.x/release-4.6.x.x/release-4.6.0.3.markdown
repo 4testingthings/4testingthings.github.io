@@ -1,5 +1,8 @@
-
-DES Release Note - Release-4.6.0.3 (FE Only)
+ 
+---
+nav_exclude: true
+---
+# DES Release Note - Release-4.6.0.3 (FE Only)
 # Table of Contents
 1. [Scope](#Scope)
 2. [Implementation Window](#Implementation-Window)

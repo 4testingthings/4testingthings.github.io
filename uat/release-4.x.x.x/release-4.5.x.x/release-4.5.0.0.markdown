@@ -1,4 +1,7 @@
-
+ 
+---
+ nav_exclude: true
+ ---
 # DES Release Note - Release-4.5.0.0 (FE Only)
 # Table of Contents
 1. [Scope](#Scope)
