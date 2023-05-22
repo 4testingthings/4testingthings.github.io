@@ -12,6 +12,7 @@
 INSERT ADDITIONAL INFORMATION
 
 # Implementation Window
+
 | What | When |
 | --- | --- |
 | Mobile App | INSERT ADDITIONAL INFORMATION |

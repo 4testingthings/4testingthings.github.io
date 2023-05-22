@@ -12,6 +12,7 @@ DES Release Note - Release-4.6.0.3 (FE Only)
 INSERT ADDITIONAL INFORMATION
 
 # Implementation Window
+
 | What | When |
 | --- | --- |
 | Mobile App | INSERT ADDITIONAL INFORMATION |
