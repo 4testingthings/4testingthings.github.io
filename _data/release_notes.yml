@@ -10,3 +10,5 @@
   note_link: '[release-4.3.2.0](uat/release-4.x.x.x/release-4.3.x.x/release-4.3.2.0)'
 - version: release-4.2.0.3
   note_link: '[release-4.2.0.3](uat/release-4.x.x.x/release-4.2.x.x/release-4.2.0.3)'
+- version: release-4.1.1.2
+  note_link: '[release-4.1.1.2](uat/release-4.x.x.x/release-4.1.x.x/release-4.1.1.2)'
